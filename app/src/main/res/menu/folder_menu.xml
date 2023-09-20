@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/rateUs"
+        android:icon="@drawable/ic_round_star_24"
+        android:title="RateUs"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/folder_refresh"
+        android:title="Refresh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share_app"
+        android:title="Share App"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/update_profile"
+        android:title="Update profile"
+        app:showAsAction="never" />
+</menu>

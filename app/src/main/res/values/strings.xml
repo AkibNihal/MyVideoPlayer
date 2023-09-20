@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyVideoPlayer</string>
+    <string name="AllowAccessText1">Thank You for installing MyVideoPlayer</string>
+    <string name="AllowAccessText2">For playing videos, we need access to all the videos in this device. Please allow access.</string>
+</resources>

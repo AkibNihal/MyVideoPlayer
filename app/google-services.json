@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852893449490",
+    "firebase_url": "https://myvideoplayer-47916-default-rtdb.firebaseio.com",
+    "project_id": "myvideoplayer-47916",
+    "storage_bucket": "myvideoplayer-47916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852893449490:android:fcedc7d87d15ec590b87cb",
+        "android_client_info": {
+          "package_name": "com.example.android.myvideoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852893449490-bpmldu34u7hr9qpt93795hnp2rcc29mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckLaIaF6wtjuhsUqxMX_BM2onXMaoE3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852893449490-bpmldu34u7hr9qpt93795hnp2rcc29mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
